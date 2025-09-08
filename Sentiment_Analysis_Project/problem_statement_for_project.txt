@@ -1,0 +1,17 @@
+Assignment:
+Try with the possible classifiers: and select one algorithm which is giving the best accuracy and other metrics
+
+one algorithm is selected:
+
+u need to develop the production ready Code -- .py File  is called as production ready code
+
+As part of production ready code:
+
+1. Data Preprocessing function
+2. Text to numerical data conversion function using bag of words or tfidf vectorizer(Need to save the vectorizer object in pickle file for test data conversion)
+3. Model building function (need to save the model in pickle file for prediction)
+4. Model prediction function( we will be using the saved model and saved vectorizer object in pickle file for predicting the new data)
+
+once model training and model prediction  code is ready develop the basic front end with the help of flask or streamlit and integrate the code with our prediction function
+
+once everything is ready, create a repository in ur git hub account for this Sentiment analysis project and push the code in that repository
